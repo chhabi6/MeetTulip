@@ -2,6 +2,15 @@
   position: fixed;
   right: 0;
   bottom: 0;
+  min-width: 50%;
+  min-height: 50%;
+}
+
+.content {
+  color: white;
+  position: absolute;
+  padding: 300px 0;
+  text-align: center;
   min-width: 100%;
   min-height: 100%;
 }
